@@ -1,0 +1,87 @@
+.name {
+    font-size: 21px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 21px;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 21px;
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 21px;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 21px;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 25px;
+    min-width: 200px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.paraStyle {
+    text-align: center;
+    min-width: 200px;
+    min-height: 150px;
+    font-size: 18px;
+}
+
+.backStyle {
+    margin-top: 80px;
+    padding: 15px;
+}
+
+.profileStyle {
+    background-color: #f4e1d2;
+    min-width: 0px;
+    min-height: 150px;
+    margin: 20px;
+    padding: 15px;
+}
+
+h3 {
+    font-weight: bolder;
+    margin-top: 15px;
+}
+
+.socialDetails {
+    background-color: #fefcff;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.socialStyling {
+    margin: 5px;
+    padding: 2px;
+    min-width: 100px;
+}
+
+.imgStyling {
+    width: 150px;
+    height: 160px;
+    border-radius: 80px;
+}
+
+.myDetails {
+    width: 100px;
+    height: 90%;
+    margin: 40px;
+    padding: 5px;
+}
